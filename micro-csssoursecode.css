@@ -1,0 +1,771 @@
+/*.body{
+    margin: 0px;
+}*/
+.header{
+    position: fixed;
+    width: 1728px;
+    height: 127px;
+    background: rgba(111, 106, 247, 1);
+    gap: 0px;
+    display:flex;
+
+}
+.r1b1{
+    width: 215px;
+    height: 63px;
+    top: 27px;
+    left: 44px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    font-family: Delius Unicase;
+    font-size: 61.43px;
+    font-weight: 700;
+    line-height: 78.81px;
+    text-align: left;
+    
+    
+    
+    
+    }
+    
+    .r1b2{
+    width: 102px;
+    height: 33px;
+    top: 42px;
+    left: 412px;
+    gap: 0px;
+    opacity: 0px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    font-family: DM Sans;
+    font-size: 36.43px;
+    font-weight: 400;
+    line-height: 47.43px;
+    text-align: left;
+    
+    
+    
+    }
+    
+    .r1b3{
+    color: rgba(255, 255, 255, 1);
+    width: 157px;
+    height: 36px;
+    top: 41px;
+    left: 561px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    font-family: DM Sans;
+    font-size: 36.43px;
+    font-weight: 400;
+    line-height: 47.43px;
+    text-align: left;
+    
+    
+    }
+    
+    .r1b4{
+    color: rgba(255, 255, 255, 1);
+    width: 199px;
+    height: 36px;
+    top: 41px;
+    left: 764px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    font-family: DM Sans;
+    font-size: 36.43px;
+    font-weight: 400;
+    line-height: 47.43px;
+    text-align: left;
+    
+    
+    
+    }
+    
+    .r1b5{
+    color: rgba(255, 255, 255, 1);
+    width: 89px;
+    height: 36px;
+    top: 41px;
+    left: 1009px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+    font-family: DM Sans;
+    font-size: 36.43px;
+    font-weight: 400;
+    line-height: 47.43px;
+    text-align: left;
+    
+    
+    
+    
+    }
+    .r1b8{
+        width: 7.77px;
+        height: 14px;
+        top: 69.91px;
+        left: 1098px;
+        gap: 0px;
+        opacity: 0px;
+        angle: 90 deg;
+        position: absolute;
+        
+    }
+    
+    .r1b6{
+        width: 314px;
+        height: 57px;
+        top: 36px;
+        left: 1171px;
+        gap: 0px;
+        border-radius: 63px;
+        opacity: 0px;
+        background: rgba(255, 255, 255, 1);
+        display: flex;
+        position: absolute;
+    
+    
+    }
+    
+    .search1{
+        width: 119px;
+        height: 23px;
+        top: 48px;
+        left: 1196px;
+        gap: 0px;
+        opacity: 0px;
+    font-family: DM Sans;
+    font-size: 24.43px;
+    font-weight: 400;
+    line-height: 31.81px;
+    text-align: left;
+    padding: 5px;
+        
+    color: rgba(159, 159, 159, 1);
+    
+    
+    
+    }
+    .search2{
+    width: 26px;
+    height: 26px;
+    top: 51px;
+    left: 1440px;
+    gap: 0px;
+    opacity: 0px;
+    padding-left: 100px;
+    padding-top: 5px;
+    }
+    .r1b7{
+        width: 67px;
+        height: 46.61px;
+        top: 38.84px;
+        left: 1608px;
+        gap: 0px;
+        opacity: 0px;
+         position: absolute;
+    }
+    .fixedlogo{
+    width: 112px;
+    height: 406px;
+    margin-top: 10px;
+    margin-left: 1600px;
+    padding: 173px 16px 0px 8px;
+    gap: 0px;
+    opacity: 0px;
+    position: fixed;
+    }
+    .headphone{
+width: 120px;
+height: 120px;
+gap: 0px;
+opacity: 0px;
+
+    }
+.secondmain{
+width: 1542px;
+height: 1695px;
+margin-top: 0px;
+margin-left: 80px;
+gap: 0px;
+opacity: 0px;
+border: Mixed solid rgba(255, 255, 255, 1);
+
+}
+.second{
+    display: flex;
+    margin-left: 28px;
+ }
+ .sec1{
+ width: 300px;
+ height: 507px;
+ margin-top:289px;
+ margin-left:5px;
+ margin-right:200px;
+ gap: 0px;
+ border-radius: 20px 20px 20px 20px;
+ opacity: 0px;
+ }
+ .secdiv2{
+     width: 890px;
+     height:500px;
+     margin-left:70px;
+     margin-top:289px;
+     gap: 0px;
+     border-radius: 20px 20px 20px 20px;
+     border: 6px 0px 0px 0px;
+     opacity: 0px;
+     border: 6px solid rgba(255, 255, 255, 1);
+     box-shadow: 3px 5px 27px 0px rgba(0, 0, 0, 0.25) inset;  
+     background: rgba(229, 216, 255, 1);
+     font-size:22px;
+     text-align: center;
+     top: 20px;
+     padding-top: 30px;
+     color: rgba(111, 115, 115, 1);
+
+    
+
+ }
+ .thirdmain{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+    gap: 25px;
+    justify-content: space-between;
+    margin: 50px;;
+
+}
+
+.thirdmain1{
+width: 337px;
+height: 145.48px;
+gap: 0px;
+border-radius: 11px 11px 11px 11px;
+opacity: 0px;
+background: rgba(146, 157, 255, 1);
+box-shadow: 0px 9px 31px 0px rgba(0, 0, 0, 0.4);
+margin-top: 1px;
+
+
+
+
+}
+.thirdmain2{
+width: 337px;
+height: 145.48px;
+gap: 0px;
+border-radius: 11px 11px 11px 11px;
+opacity: 0px;
+background: rgba(115, 76, 242, 1);
+
+
+
+
+
+}
+.thirdmain3{
+    width: 337px;
+    height: 145px;
+    gap: 0px;
+    border-radius: 11px 11px 11px 11px;
+    opacity: 0px;
+    background: rgba(210, 136, 255, 1);
+
+    
+}
+.thirdmain4{
+width: 337px;
+height: 145.48px;
+gap: 0px;
+border-radius: 11px 11px 11px 11px;
+opacity: 0px;
+background: rgba(0, 0, 0, 1);
+display:flex;
+}
+
+.h1{
+    width: 181px;
+}
+.h2{
+
+}
+.cont1{
+width: 244px;
+height: 36px;
+margin-top:20px;
+margin-left: 20px;
+gap: 0px;
+opacity: 0px;
+font-family: DM Sans;
+font-size: 29px;
+font-weight: 700;
+line-height: 51.82px;
+letter-spacing: 0.04em;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+
+
+}
+.cont2{
+width: 142px;
+height: 35px;
+margin-top: 20px;
+margin-left:20px;
+gap: 0px;
+opacity: 0px;
+font-family: DM Sans;
+font-size: 28px;
+font-weight: 700;
+line-height: 50.04px;
+letter-spacing: 0.04em;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+}
+.cont3{
+    width: 260px;
+    height: 36px;
+    margin-top:20px;
+    margin-left: 20px;
+    gap: 0px;
+    opacity: 0px;
+font-family: DM Sans;
+font-size: 29px;
+font-weight: 700;
+line-height: 51.82px;
+letter-spacing: 0.04em;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+}
+
+.fourthdmain{
+    width: 1460px;
+    height: 717px;
+    margin-top: 100px;
+    margin-left: 40px;
+    gap: 0px;
+    border-radius: 21px 21px 21px 21px;
+    opacity: 0px;
+    background: rgba(72, 62, 255, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    flex-wrap: wrap;
+    
+    
+    }
+    
+    .four1{
+    width: 390px;
+    height: 133px;
+    margin-top: 70px;
+    margin-left:50px;
+    border-radius: 22px 22px 22px 22px;
+    opacity: 0px;
+    background: rgba(188, 224, 246, 1);
+    box-shadow: 0px 6px 35px 0px rgba(0, 0, 0, 0.39);
+    
+    
+    }
+    .four2{
+    width: 380px;
+    height: 133px;
+    margin-top: 70px;
+    margin-left: 50px;
+    gap: 0px;
+    border-radius: 22px 22px 22px 22px;
+    border: 5px 0px 0px 0px;
+    opacity: 0px;
+    border: 5px solid rgba(255, 255, 255, 1);
+    
+    }
+    .four3{
+    width: 380px;
+    height: 133px;
+    margin-top: 70px;
+    margin-left: 50px;
+    gap: 0px;
+    border-radius: 22px 22px 22px 22px;
+    border: 5px 0px 0px 0px;
+    opacity: 0px;
+    border: 5px solid rgba(255, 255, 255, 1)
+    
+    }
+    
+    .four1c{
+    
+    width: 250px;
+    height: 43px;
+    padding-top:5px;
+    padding-left: 80px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: DM Sans;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 62.54px;
+    word-spacing:20px;
+    color: rgba(0, 0, 0, 1);
+    
+    
+    }
+    
+    .four2c{
+    width: 234px;
+    height: 43px;
+    padding-top:30px;
+    padding-left: 80px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: DM Sans;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 62.54px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    
+    
+    }
+    .four3c{
+     width: 176px;
+    height: 43px;
+    padding-top:30px;
+    padding-left:100px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: DM Sans;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 62.54px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    
+    
+    }
+    
+    .fifthmain{
+    width: 930px;
+    height: 659px;
+    margin-top: 30px;
+    margin-right:2px;
+    gap: 0px;
+    border-radius: 19px 19px 19px 19px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+    }
+    .fifth1{
+    width: 370px;
+    height: 36px;
+    margin-top:40px;
+    margin-left:40px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 45.99px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    }
+    .fifthparent1{
+    display: flex;
+    }
+    .child1{
+    width: 85px;
+    height: 26px;
+    padding-top: 30px;
+    padding-left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32.81px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    }
+    .child2{
+    width: 11px;
+    height: 19px;
+    padding-top: 30px;
+    padding-left: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 20.46px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    
+    }
+    .child3{
+    width: 153px;
+    height: 22px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.13px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: rgba(20, 53, 101, 1);
+    
+    }
+    
+    .child1{ 
+        width: 85px;
+        height: 26px;
+        padding-top:30px;
+        padding-left:30px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Roboto;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32.81px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    }
+    .child2{
+    width: 11px;
+    height: 19px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 20.46px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    }
+    .child3{
+    width: 153px;
+    height: 22px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.13px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: rgba(20, 53, 101, 1);
+    
+    }
+    .fifthparent2{
+        display: flex;
+    }
+    .child4{
+    width: 88px;
+    height: 26px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32.81px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    
+    }
+    .child5{
+        width: 11px;
+    height: 23px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 20.46px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    
+    }
+    .child6{
+        width: 216px;
+    height: 22px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.13px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: rgba(20, 53, 101, 1);
+    
+    }
+    .fifthparent3{
+     display: flex;
+    }
+    .child7{
+        width: 99px;
+    height: 26px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32.81px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    
+    }
+    .child8{
+        width: 11px;
+        height: 19px;
+        padding-top:30px;
+        padding-left:20px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Roboto;
+        font-size: 26px;
+        font-weight: 500;
+        line-height: 20.46px;
+        letter-spacing: 0.105em;
+        text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    
+    }
+    
+    .child9{
+        width: 216px;
+    height: 22px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.13px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: rgba(20, 53, 101, 1);
+    
+    
+    }
+    .fifthparent4{
+        display:flex;
+    }
+    .child10{
+    width: 99px;
+    height: 26px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 32.81px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    
+    }
+    .child11{
+    width: 11px;
+    height: 23px;
+    padding-top:30px;
+    padding-left:20px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 20.46px;
+    letter-spacing: 0.105em;
+    text-align: left;
+    color: rgba(4, 40, 90, 1);
+    
+    }
+    .child12{
+    
+    width: 90px;
+    height: 22px;
+    padding-top:30px;
+    padding-left:30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.13px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: rgba(20, 53, 101, 1);
+    
+    }
+    .fifthparent5{
+    display: flex;
+    width: 207px;
+    height: 78px;
+    margin-left:690px;
+    margin-top: 255px;
+    border-radius: 9px 9px 9px 9px;
+    background: rgba(0, 0, 0, 1);
+    justify-content:space-evenly;
+    }
+    .child13{
+    width: 67px;
+    height: 28px;
+    padding: 23px 0px 20px 40px ;
+    /*margin-top: 18px;
+    margin-left: 13px;*/
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35.16px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    }
+    .child14{
+        padding:30px 90px 20px 14px ;
+    
+    }
+   

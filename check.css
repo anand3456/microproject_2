@@ -183,9 +183,9 @@
     .headphone{
 width: 120px;
 height: 120px;
-gap: 0px;
-opacity: 0px;
-
+margin-top:880px;        
+margin-left:1340px;
+position:fixed;        
     }
 .secondmain{
 width: 1542px;
